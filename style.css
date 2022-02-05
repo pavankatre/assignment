@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap');
+#card1{
+    background-color: rgb(230, 59, 59);
+}
+#card2{
+    background-color: rgb(207, 91, 13);
+}
+#card3{
+    background-color: rgb(219, 84, 113);
+}
+#card4{
+    background-color: rgb(68, 3, 77);
+}
+.card{
+    width: 320px;
+    height: 350px;
+    color: rgb(240, 239, 236);
+    margin: 30px;
+    border-radius: 20px;
+}
+.img{
+    border-radius: 20px 20px;
+}
+.heading{
+    font-family: 'Yellowtail', cursive;
+    margin: 8px;
+}
+.para{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin: 8px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
